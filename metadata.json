@@ -1,0 +1,6 @@
+{
+  "name": "Sadek Sir Academy",
+  "description": "Premium modern educational website for Sadek Sir Academy - professional Bengali tuition and academic guidance for Classes 8 to 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
